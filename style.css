@@ -1,0 +1,19 @@
+body {
+    font-family: "Source Code Pro", monospace;
+    line-height: 1.6;
+    color: #333333;
+    background-color: #f5f5f5;
+}
+
+h1, h2, h3 {
+    font-family: "Quicksand", sans-serif;
+    color: #24527a;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
